@@ -6,24 +6,29 @@ Deployed URL: https://calendar-app-xit1-dg0k8mzix-anushas-projects-65e5849b.verc
 
 ## Technologies Used
 *React.js*
+
 **Why**: React provides a modular and component-based architecture that simplifies the management of the UI state and the rendering process. This is particularly beneficial for dynamic, interactive apps like a calendar.
 Usage: The app uses React components (useState for state management) to handle user interactions, manage the app's internal state (e.g., current month/year, events), and render updates dynamically.
 
 *CSS*
+
 **Why**: CSS ensures a visually appealing and responsive design, allowing users to interact seamlessly across devices.
 Usage: The app's CSS styles define the layout, colors, typography, and interaction feedback. For example:
 The calendar grid (.days, .weekdays) and navigation buttons are styled for clarity and usability.
 The event popup uses CSS for a modal-like appearance.
 
 *JavaScript (Core)*
+
 **Why**: Provides the logic for date manipulation, event validation, and application state.
 Usage: Functions like prevMonth, nextMonth, and handleDayClick handle user interactions with the calendar. Utilities such as isTimeOverlap and isSameDay ensure event scheduling is logical and error-free.
 
 *Boxicons (Icons)*:
+
 **Why:** Boxicons is a lightweight, scalable icon library, ensuring a consistent aesthetic and easy integration.
 How: Icons such as arrows, edit, and delete are integrated to enhance interactivity and visual clarity.
 
 *Google Fonts (Typography):*
+
 **Why:** Google Fonts provide a wide variety of high-quality fonts, improving readability and aesthetic appeal.
 How: Custom fonts are used to align with the app's modern design language.
 
