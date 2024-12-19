@@ -35,16 +35,17 @@ How: Custom fonts are used to align with the app's modern design language.
 ## Key Features:
 
 1. *Date Navigation:*
-  1. Navigate through months using arrow buttons.
-  2. Display current month and year.
+    1. Navigate through months using arrow buttons.
+    2.  Display current month and year.
 
 2. *Event Management*:
-  1. Add events with specific start and end times, descriptions, and types (e.g., Work, Personal, Others).
-  2. Prevent overlapping events on the same day.
-  3. Edit or delete events easily using action icons.
+    1. Add events with specific start and end times, descriptions, and types (e.g., Work, Personal, Others)
+    2. Prevent overlapping events on the same day.
+    3. Edit or delete events easily using action icons.
+       
 3. *UI Enhancements*:
-  1. Visually distinguish current day, selected day, and event types using distinct styles.
-  2. Popup forms for event creation and editing.
+    1. Visually distinguish current day, selected day, and event types using distinct styles.
+    2. Popup forms for event creation and editing.
 
 ## Future Improvements
 1. LocalStorage/Database Integration:
